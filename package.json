@@ -1,0 +1,23 @@
+{
+  "name": "read-properties",
+  "version": "0.0.1",
+  "description": "read-properties allows you to read key values from your .properties file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reedyuk/read-properties.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reedyuk/read-properties/issues"
+  },
+  "homepage": "https://github.com/Reedyuk/read-properties#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6"
+  }
+}

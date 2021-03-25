@@ -1,6 +1,6 @@
 # read-properties GitHub Action  
 
-read-propertie allows you to read key values from your .properties file.
+read-properties allows you to read key values from your .properties file.
 
 ## Integrating with GitHub actions
 
