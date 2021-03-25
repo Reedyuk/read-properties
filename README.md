@@ -34,7 +34,7 @@ The value of the given property.
 
     - name: Read value from Properties-file
       id: read_property
-      uses: Reedyuk/read-properties@1.0.0
+      uses: Reedyuk/read-properties@v1.0.0
       with:
         path: './src/main/resources/application.properties'
         property: 'the.key.of.the.property'
