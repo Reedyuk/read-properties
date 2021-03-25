@@ -361,8 +361,8 @@ async function run() {
         if(stderr != null) {
             console.log(stderr);
         }
-        const value = stdout;
         console.log(stdout);
+        const value = stdout.replace(/\n|\r/g, "");
         console.log(`property value:${value}`);
         core.setOutput("value", value);
     });
