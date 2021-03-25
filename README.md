@@ -1,6 +1,6 @@
 # read-properties GitHub Action  
 
-read-properties allows you to read key values from your .properties file.
+read-properties allows you to read key values from your .properties file on *Any* github platform e.g. MacOS, Linux, Windows
 
 ## Integrating with GitHub actions
 
@@ -34,7 +34,7 @@ The value of the given property.
 
     - name: Read value from Properties-file
       id: read_property
-      uses: Reedyuk/read-properties@v1.0.0
+      uses: Reedyuk/read-properties@v1.0.1
       with:
         path: './src/main/resources/application.properties'
         property: 'the.key.of.the.property'

@@ -1,5 +1,9 @@
 name: 'Read Property'
 description: 'Read property from .properties file'
+author: Andrew Reed
+branding:
+  icon: 'list'
+  color: 'blue'
 inputs:
   path:
     description: 'The path to properties file to read'
