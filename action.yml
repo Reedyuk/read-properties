@@ -15,5 +15,5 @@ outputs:
   value:
     description: 'The value of the given property'
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'dist/index.js'
