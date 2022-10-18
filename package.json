@@ -1,6 +1,6 @@
 {
   "name": "read-properties",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "read-properties allows you to read key values from your .properties file.",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Reedyuk/read-properties#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6"
+    "@actions/core": "^1.10.0"
   }
 }
