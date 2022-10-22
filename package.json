@@ -1,6 +1,6 @@
 {
   "name": "read-properties",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "read-properties allows you to read key values from your .properties file.",
   "main": "index.js",
   "scripts": {
