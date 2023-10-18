@@ -1,3 +1,4 @@
+![Count of Action Users](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Reedyuk/read-properties/main/read-properties.json)
 # read-properties GitHub Action  
 
 read-properties allows you to read key values from your .properties file on *Any* github platform e.g. MacOS, Linux, Windows
